@@ -1,7 +1,4 @@
 # Project Title: Sales Analysis
-
-#### To view the project with output, please refer .html file
-
 ## Project Description 
 This project focuses on analyzing sales data from multiple CSV files. The goal is to clean and process the data, analyze monthly sales trends, and visualize the results. The analysis includes calculating total sales, identifying the best-selling products, and comparing sales metrics across different months and cities. The project uses Python and Pandas for data manipulation and Matplotlib for visualizations.
 
