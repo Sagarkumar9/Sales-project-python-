@@ -6,6 +6,7 @@ The analysis includes calculating total sales, identifying the best-selling prod
 The project uses Python and Pandas for data manipulation and Matplotlib for visualizations.
 
 Features
+
 Data Concatenation: Combined sales data from multiple CSV files into a single DataFrame.
 Data Cleaning: Removed missing values and invalid entries from the dataset.
 Sales Calculations: Computed total sales and analyzed trends by month and product category.
